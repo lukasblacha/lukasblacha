@@ -5,20 +5,19 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="LINK" alt="header"/>
+  <img src="https://github.com/lukasblacha/lukasblacha/blob/main/lukasblacha.png" alt="header"/>
 </div>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+  <samp>22 y/o IT Specialist and System Administrator. 
   </samp>
   <br> <br>
-  <img src="LINK" />
 </p>
 
 <hr>
 
-<h2 align="center"> 🔭 Tools of Trade</h2>
+<h2 align="center"> 🔭 Tools</h2>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png" />&nbsp;&nbsp;&nbsp;
 </p>
